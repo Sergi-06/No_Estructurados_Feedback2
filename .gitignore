@@ -1,2 +1,3 @@
 simpsons_dataset/**/*.jpg
 simpsons_split_dataset/**/*.jpg
+*.png
